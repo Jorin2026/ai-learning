@@ -1,0 +1,6 @@
+d2l-notebook/
+data/
+*.zip
+*.pth
+.ipynb_checkpoints/
+__pycache__/
